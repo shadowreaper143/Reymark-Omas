@@ -1,0 +1,27 @@
+{
+    "audio": {
+        "sound_volume": 1.0
+    },
+    "controls": {
+        "mobile_controls": false
+    },
+    "display": {
+        "screen_width": 800,
+        "screen_height": 600,
+        "fullscreen": false
+    },
+    "player": {
+        "default_username": "Reymark A. Omas",
+        "default_email": "player1@example.com"
+    },
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "space_shooter"
+    },
+    "sound": {
+        "volume": 1.0
+    }
+}
